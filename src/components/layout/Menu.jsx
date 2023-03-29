@@ -20,6 +20,9 @@ export default function Menu() {
           <li>
             <Link to="/param">Param #2</Link>
           </li>
+          <li>
+            <Link to="/notFound">Não existe</Link>
+          </li>
         </ul>
       </nav>
     </aside>
