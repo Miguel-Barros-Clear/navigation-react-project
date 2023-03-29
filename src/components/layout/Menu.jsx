@@ -14,7 +14,12 @@ export default function Menu() {
           <li>
             <Link to="/about">Sobre</Link>
           </li>
-          <li></li>
+          <li>
+            <Link to="/param/123">Param #1</Link>
+          </li>
+          <li>
+            <Link to="/param">Param #2</Link>
+          </li>
         </ul>
       </nav>
     </aside>
